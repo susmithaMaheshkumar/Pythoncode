@@ -1,0 +1,2 @@
+New text file which was created and something was writen
+2nd line of the file

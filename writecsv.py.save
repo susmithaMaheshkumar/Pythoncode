@@ -1,0 +1,8 @@
+import csv
+
+
+with open("csvfile.csv","wb") as csvfile:
+	csv_Write = csv.writer(csvfile, delimiter = ',',quotechar ='"', quoting =
+		output =  csv.writer(csvfile)
+		output.writerows(text)
+

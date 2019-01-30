@@ -1,0 +1,5 @@
+/home/fifthgen/Documents/ListOfFiles/code.txt
+/home/fifthgen/Documents/ListOfFiles/ListComprehensions.txt
+/home/fifthgen/Documents/ListOfFiles/MTConnect.txt
+/home/fifthgen/Documents/ListOfFiles/numbers.txt
+/home/fifthgen/Documents/ListOfFiles/scp.txt
